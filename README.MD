@@ -65,7 +65,7 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 
 ### Podcasts
 - [Web Reactiva](https://www.danielprimo.io/podcast) - Web Reactiva es el podcast free de danielprimo.io. Historias que tienen que ver con la programación y el desarrollo web....Porque la tecnología es necesaria, pero, ¡las personas somos lo importante!
-- [Metacast](https://www.notion.so/MetaCast-92c8bd50e6b8402499155fc8bbafe5da) - l proyecto de Carlos nos sigue ayudando con sus resúmenes de podcasts (muchos de tecnología).
+- [Metacast](https://www.notion.so/MetaCast-92c8bd50e6b8402499155fc8bbafe5da) - El proyecto de Carlos nos sigue ayudando con sus resúmenes de podcasts (muchos de tecnología).
 - [Emprendedores Atípicos](https://emprendedoresatipicos.com/) - Un podcast para aprender de emprendedores genuinamente atípicos.
 
 ### Roadmaps
