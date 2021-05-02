@@ -31,7 +31,7 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 - [Shield](https://shields.io/) - Badges para proyectos Open Source (utilizados en el #ProgramaEnPantuflas).
 - [Libreria CSS minimalista](https://awesome-web-animation.netlify.app/) - Hojas de estilos minimalistas para elementos HTML, sin clases, sin frameworks, solo semántica facil.
 - [html2pdftojs](https://ekoopmans.github.io/html2pdf.js/) - Convierte HTML a PDF usando puro JS con renderizado del lado del cliente.
-- [Recursos Design](https://github.com/bradtraversy/design-resources-for-developers) - Recursos con componentes modernos UI en diferen formatos como PSD, Sketch, Figma, etc.
+- [Recursos Design](https://github.com/bradtraversy/design-resources-for-developers) - Recursos con componentes modernos UI en diferentes formatos como PSD, Sketch, Figma, etc.
 - [urlcat](https://urlcat.dev/#/) - Una librería para diseccionar URL's en JavaScript.
 - [Awesome Web Animation](https://awesome-web-animation.netlify.app/) - Cientos de recursos para animar la web con cabeza y no con los pies.
 
@@ -44,13 +44,12 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 - [Terminal Linux](https://terminaldelinux.com/terminal/) - Introducción en castellano para sacar más partido a la consola.
 - [Porter](https://www.getporter.dev) - Heroku en formato Open Source.
 - [Meli](https://docs.meli.sh/) - Hosting propio para el ecosistema Jamstack (Netlify Self Hosted, por así decirlo).
-- [Terminal Linux](https://terminaldelinux.com/terminal/) - Introducción en castellano para sacar más partido a la consola.
 - [FingerprintsJS](https://github.com/fingerprintjs/fingerprintjs) - Para identificar a los usuarios sin autenticación.
 - [Personal Server](https://github.com/erebe/personal-server) - Guía para crear un servidor personal con K8s, SOPS, GPG, DNS.
 - [Git Branching](https://learngitbranching.js.org/?locale=es_AR) - Aplicación Git diseñada para manejar los poderosos conceptos que hay detrás del trabajo con ramas (branches).
 - [UptimeRobot](https://uptimerobot.com/) - Un servicio para controlar si nuestros sitios web están operativos.
 - [Aprende Testing](https://franiglesias.github.io/new-book/) - Manual de aprendizaje de testing TDD, desde cero a la aplicación al desarrollo de proyectos.
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh no te ahce 10x developer...pero te sentiras como un hacker.
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh no te hace 10x developer, pero te sentiras como un hacker.
 - [Integromat](https://www.integromat.com/en) - Hub de herramientas, para enlazar eventos y acciones.
 - [Live Server VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Lanza un servidor local de desarrollo con recarga automática para páginas estáticas y dinámicas.
 
@@ -64,7 +63,7 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 ## Varios
 
 ### Podcasts
-- [Web Reactiva](https://www.danielprimo.io/podcast) - Web Reactiva es el podcast free de danielprimo.io. Historias que tienen que ver con la programación y el desarrollo web....Porque la tecnología es necesaria, pero, ¡las personas somos lo importante!
+- [Web Reactiva](https://www.danielprimo.io/podcast) - Web Reactiva es el podcast free de danielprimo.io. Historias que tienen que ver con la programación y el desarrollo web, porque la tecnología es necesaria, pero, ¡las personas somos lo importante!
 - [Metacast](https://www.notion.so/MetaCast-92c8bd50e6b8402499155fc8bbafe5da) - El proyecto de Carlos nos sigue ayudando con sus resúmenes de podcasts (muchos de tecnología).
 - [Emprendedores Atípicos](https://emprendedoresatipicos.com/) - Un podcast para aprender de emprendedores genuinamente atípicos.
 
