@@ -37,8 +37,10 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 
 ## Back-End
 
+- [Caddy](https://caddyserver.com/) - Servidor Open Source con gestión automática de SSL (letsencrypt) con puertos redirigidos y muy configurable. 
+- [Clouding.io](https://clouding.io/) - Servidor en la nube con VPS y configurable. Máquinas virtuales a medida. 
 - [Netlify](https://www.netlify.com/) - Hosting gratuito para websites y proyectos personales. 
-- [Postman](https://www.postman.com/) - Testea una API con endpoints y respuestas. Simplifica los pasos para construir una API
+- [Postman](https://www.postman.com/) - Testea una API con endpoints y respuestas. Simplifica los pasos para construir una API.
 - [Napkin](https://www.napkin.io/) - Backend sin infraestructura. Solo en una caja de texto puedes ejecutar Python sin preguntas.
 - [Binary.Ninja](https://binary.ninja/) - IDE para hacer ingeniería inversa. Decompila, desensambla binarios, analiza estructuras y relaciones en el código más profundo. 
 - [Terminal Linux](https://terminaldelinux.com/terminal/) - Introducción en castellano para sacar más partido a la consola.
@@ -52,6 +54,10 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh no te hace 10x developer, pero te sentiras como un hacker.
 - [Integromat](https://www.integromat.com/en) - Hub de herramientas, para enlazar eventos y acciones.
 - [Live Server VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Lanza un servidor local de desarrollo con recarga automática para páginas estáticas y dinámicas.
+- [Wasabi](https://wasabi.com/) - Clooud storage en la nube similar a AWS S3 pero más económico.
+- [BlackBlaze](https://www.backblaze.com/) - Almacenamiento en la nube sin romperte el bolsillo.
+- [MinIO](https://min.io/) - Stack compatible con Amazon S3.
+- [Stackgres](https://stackgres.io/) - Gestión de bases de datos Postgres.
 
 ## Full Malandriner
 
@@ -88,6 +94,7 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 - [MyairBridge](https://www.myairbridge.com/es/) - Comparte gratis ficheros de 20GB sin despeinarse.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Set de utilidades para mejorar la productividad con Windows 10.
 - [Trello](https://trello.com) - Facilita la gestion de ideas y planes para tus proyectos.
+- [Syncthing](https://syncthing.net/) - Sincronización de ficheros open source.
 
 
 ## Licencia
