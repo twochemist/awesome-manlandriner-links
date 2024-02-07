@@ -20,7 +20,6 @@ Malandriner de [Web Reactiva](https://webreactiva.com) es una comunidad de progr
 ## Formacion
 
 - [Web Reactiva](http://webreactiva.com) - Desarrolla aplicaciones web como en Silicon Valley.
-- [Chemistdev](http://antonioarjona.dev) - Blog de Programacion.
 
 
 ## Front-End
