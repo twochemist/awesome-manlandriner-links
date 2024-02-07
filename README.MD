@@ -4,11 +4,9 @@
 # [<img src="https://i.imgur.com/A3M3Qxl.png">](https://i.imgur.com/A3M3Qxl.png)
 
 
-> Una colección curada de enlaces para ayudarte en el desarrollo web con recursos de Web Reactiva y La Selecta Newsletter.
+> Una colección curada de enlaces para ayudarte en el desarrollo web con recursos de Web Reactiva Newsletter.
 
-Malandriner de [Web Reactiva](https://danielprimo.io) es una comunidad de programadores que crean software incorporando la última tecnología web para resolver los problemas diarios del Front-End y del Back-End.
-
-Las contribuciones para que crezca esta lista son bienvenidas. 
+Malandriner de [Web Reactiva](https://webreactiva.com) es una comunidad de programadores que crean software incorporando la última tecnología web para resolver los problemas diarios del Front-End y del Back-End.
 
 ## Contenidos
 
@@ -19,9 +17,11 @@ Las contribuciones para que crezca esta lista son bienvenidas.
 - [Aplicaciones](#aplicaciones)
 - [Varios](#varios)
 
-## Educación
+## Formacion
 
-- [Web Reactiva](http://danielprimo.io) - Web oficial. Desarrolla aplicaciones web como en Silicon Valley.
+- [Web Reactiva](http://webreactiva.com) - Desarrolla aplicaciones web como en Silicon Valley.
+- [Chemistdev](http://antonioarjona.dev) - Blog de Programacion.
+
 
 ## Front-End
 
